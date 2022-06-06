@@ -1,4 +1,4 @@
-# DAQ
+# LiveDataApps
 
 MATLAB Live Data Acquisition App that allows for data acquisition from multiple devices/channels, based on MathWorks' LiveDataAcquisition example code.
 
